@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-jyoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-solanki-6b72b811b/)](https://www.linkedin.com/in/jyoti-solanki-6b72b811b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-jyoti-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-jyoti-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+<!-- [![Website Badge](https://img.shields.io/badge/WebSite-jyoti-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-jyoti-yellow)](https://stackoverflow.com/users/3687251/aakash-) -->
 
 I'm
 Full Stack Solution Architect
